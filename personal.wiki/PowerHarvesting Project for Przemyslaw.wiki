@@ -1,0 +1,29 @@
+Paper Readings:
+
+
+
+Idea: Power harvesting arbiter that adapts power consumption of power harvesting nodes.
+Idea: Deep learning over multi-layer system: Layer 1 wisp sensors-> layer 2 wisp main node->layer 3 cloud (training phase, parameter modification)
+
+
+Squeezing deep learning into embedded devices
+	  Assumes models are trained off-device
+	  Two popular networks CNN (convolutional neural networks) DNN (deep neural network)
+
+
+Sparsification and Separation of Deep Learning Layers
+for Constrained Resource Inference on Wearables.
+	SparseSep tech-
+	iques can allow a developer to adopt existing o↵-the-shelfdeep models and scale their processor behavior such as, ac-
+	eptable accuracy reduction and device limits, e.g., memory
+	nd necessary execution time.
+
+	Implementation:
+	To examine the SparseSep techniques, we prototype three
+	oftware components: Layer Compression Compiler, Sparse
+	nference Runtime and Convolution Separation Runtime;
+	
+	When applied sparse factorization to its
+	irst fully connected layer only, memory requirement reduces
+	from 233 MB to below 100 MB
+	

@@ -1,0 +1,39 @@
+Dimitris Personal Wiki:
+
+Experiment Notetaking 
+Course: Data Structures and Algorithms.
+[[Linked Lists]]
+
+
+[[PowerHarvesting Project for Przemyslaw]]
+
+Arduino IR receive [[notes]]
+
+Thesis notes:
+
+Energy aware computing/programming/execution
+
+Gamifying movement for energy harvesting, eg move your hands to take picture, do a gesture to perform action
+
+Predictive-Dynamic-Adaptive execution model, eg adapt to a movement http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7460706&tag=1
+
+Kinetic Harvesting http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7525995
+Kinetic Harvester State of the art http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7460717
+Animal kinetic harvesting
+
+
+	Wake-up receivers for energy efficient and low latency communincation http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7460717
+
+	Hibernus and Hibernus++ to be read:
+	http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7442814&tag=1
+
+ 	Plenty of room at the bottom? Micropower deep learning for cognitive cyber physical systems
+
+	An IoT Endpoint System-on-Chip for Secure and Energy-Efficient Near-Sensor Analytics 
+	http://ieeexplore.ieee.org/document/7927716/
+
+	DeepEmote: Towards multi-layer neural networks in a low power wearable multi-sensors bracelet
+	http://ieeexplore.ieee.org/document/7974208/
+
+	 Peripheral State Persistence For Transiently Powered Systems 
+	https://hal.inria.fr/hal-01460699/document
